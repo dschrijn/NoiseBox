@@ -2,7 +2,7 @@
 
 ### A fun simple to use voice filter app. 
 
-<img src="" width="180" height="300"> <img src="" width="180" height="300"> <img src="" width="180" height="300"> <img src="" width="180" height="300">
+<img src="https://github.com/dschrijn/NoiseBox/blob/master/NoiseBox/Images/01%20-%20Loading.png" width="180" height="300"> <img src="https://github.com/dschrijn/NoiseBox/blob/master/NoiseBox/Images/02%20-%20Recording.png" width="180" height="300"> <img src="https://github.com/dschrijn/NoiseBox/blob/master/NoiseBox/Images/03%20-%20Effects.png" width="180" height="300"> <img src="https://github.com/dschrijn/NoiseBox/blob/master/NoiseBox/Images/04%20-%20Effects%20Selected.png" width="180" height="300">
 
 ### Overview:
 
